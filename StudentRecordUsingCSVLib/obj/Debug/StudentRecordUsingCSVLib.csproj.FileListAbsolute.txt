@@ -1,0 +1,9 @@
+F:\BASIS OOP ASP.NET 49 Batch\Home Works\StudentRecordUsingCSVLib\StudentRecordUsingCSVLib\bin\Debug\StudentRecordUsingCSVLib.exe.config
+F:\BASIS OOP ASP.NET 49 Batch\Home Works\StudentRecordUsingCSVLib\StudentRecordUsingCSVLib\obj\Debug\StudentRecordUsingCSVLib.pdb
+F:\BASIS OOP ASP.NET 49 Batch\Home Works\StudentRecordUsingCSVLib\StudentRecordUsingCSVLib\bin\Debug\StudentRecordUsingCSVLib.exe
+F:\BASIS OOP ASP.NET 49 Batch\Home Works\StudentRecordUsingCSVLib\StudentRecordUsingCSVLib\bin\Debug\StudentRecordUsingCSVLib.pdb
+F:\BASIS OOP ASP.NET 49 Batch\Home Works\StudentRecordUsingCSVLib\StudentRecordUsingCSVLib\obj\Debug\StudentRecordUsingCSVLib.csprojResolveAssemblyReference.cache
+F:\BASIS OOP ASP.NET 49 Batch\Home Works\StudentRecordUsingCSVLib\StudentRecordUsingCSVLib\obj\Debug\StudentRecordUsingCSVLib.StudentRecordKeepingUI.resources
+F:\BASIS OOP ASP.NET 49 Batch\Home Works\StudentRecordUsingCSVLib\StudentRecordUsingCSVLib\obj\Debug\StudentRecordUsingCSVLib.Properties.Resources.resources
+F:\BASIS OOP ASP.NET 49 Batch\Home Works\StudentRecordUsingCSVLib\StudentRecordUsingCSVLib\obj\Debug\StudentRecordUsingCSVLib.csproj.GenerateResource.Cache
+F:\BASIS OOP ASP.NET 49 Batch\Home Works\StudentRecordUsingCSVLib\StudentRecordUsingCSVLib\obj\Debug\StudentRecordUsingCSVLib.exe
